@@ -47,5 +47,5 @@ Or
 The project is released under the [MIT license](http://www.opensource.org/licenses/MIT).
 
 ## Contact
-The project's website is located at https://github.com/emn178/zrspec  
+The project's website is located at https://github.com/emn178/rails-helper  
 Author: emn178@gmail.com
