@@ -36,13 +36,13 @@ It's useful for that conditional class names. Following is an example of haml:
 %li{:class => classes(:active => active?)
 ```
 If true
-
-    <li class="active">
-
+```Html
+<li class="active">
+```
 Or
-
-    <li class>
-
+```Html
+<li class>
+```
 ## License
 The project is released under the [MIT license](http://www.opensource.org/licenses/MIT).
 
